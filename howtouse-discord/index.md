@@ -20,7 +20,9 @@ discordはこの｢サーバー｣と呼ばれるグループにいる人同士�
 ### チャンネル
 
 LINEのグループのようなものです。
-｢公開チャンネル｣、｢プライベートチャンネル｣の2種類が存在し、前者はサーバーにいる人全員が参加でき、後者はサーバーにいる特定の人しか参加できません。後者を作成する際は関連する人全員が招待できているか確認してください！
+｢公開チャンネル｣、｢プライベートチャンネル｣の2種類が存在し、前者はサーバーにいる人全員が参加でき、後者はサーバーにいる特定の人しか参加できません。後者を作成する際は関連する人全員が招待できているか確認してください。
+
+またチャンネルには他にも「テキストチャンネル」と「通話チャンネル」の2種類があります。前者はLINEのようにメッセージのやり取りが、後者では音声通話、ビデオ通話などが可能です。前者はアイコンが「#」、後者は「🔊」となっています。
 
 ### スレッド
 
@@ -61,8 +63,31 @@ LINEで
 
 操作はPC・スマホ共に同じです。
 
-![Discordのチャンネル作成画面](https://honkinonki.com/wp-content/uploads/2019/11/Channel_category_04.png)
+![pic3.jpg](https://github.com/Doya0910/howtouse-discord/blob/main/howtouse-discord/pic3.jpg?raw=true)
 
 できればカテゴリー内に納めていただきたいので、基本的には①の「カテゴリー横の+」を選択してください。
 
 ![Discordのチャンネル作成](https://honkinonki.com/wp-content/uploads/2017/12/Channel_category_05.png)
+
+[Discordの使い方｜初心者からすべての人に向けた図解マニュアル]: https://honkinonki.com/wp-content/uploads/2017/12/Channel_category_05.png
+
+あとは上の画像のように①に「チャンネル名」を入力し、その下からチャンネル名を
+
+
+
+### ビデオ通話をする
+
+discordではzoomのようにオンラインでのビデオ通話と画面共有が可能です。PC版、スマホ版で操作が異なります。下ではPC版の説明をします。
+
+まず音声チャンネルをクリックしてもらえればまず音声通話が始まります。その後下のような画面になります。
+
+![Discordのサーバー内ビデオ通話](https://honkinonki.com/wp-content/uploads/2017/12/discord_video_01.png)
+
+[Discordの使い方｜初心者からすべての人に向けた図解マニュアル]: https://honkinonki.com/wp-content/uploads/2017/12/discord_video_01.png
+
+その後上の赤枠部分をクリックするとビデオ通話が始まります。なおその隣の箇所をクリックすることで「画面共有」ができます。
+
+なおスマホ版でビデオ通話をする場合、PC版と異なり、<font color="red">**サーバーからビデオ通話をすることはできません**</font>。
+スマホ版でビデオ通話をする場合は、フレンド同士なら可能ですので、<font color="blue">**事前にフレンド登録をする**</font>ようにお願いします。(フレンドの追加は[こちら](https://honkinonki.com/discord-howto#Discord-8)から)
+
+なおスマホ版でビデオ通話をする場合は[こちら](https://honkinonki.com/discord-howto#i-3)をご覧ください。
