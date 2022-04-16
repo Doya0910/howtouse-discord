@@ -2,6 +2,8 @@
 
 このファイルはメモコン関連で使いそうなdiscordの機能・用語についてまとめたものです。基本は[こちら](https://honkinonki.com/discord-howto)の記事を参考にしていますので、もっと知りたい！といった方はどうぞご覧ください。
 
+通信制限などでこのサイトが見にくい場合は[こちら](https://doya0910.github.io/howtouse-discord/index.pdf)をダウンロードしてください。
+
 [TOC]
 
 ## 用語について
@@ -90,4 +92,4 @@ discordではzoomのようにオンラインでのビデオ通話と画面共有
 なおスマホ版でビデオ通話をする場合、PC版と異なり、<font color="red">**サーバーからビデオ通話をすることはできません**</font>。
 スマホ版でビデオ通話をする場合は、フレンド同士なら可能ですので、<font color="blue">**事前にフレンド登録をする**</font>ようにお願いします。(フレンドの追加は[こちら](https://honkinonki.com/discord-howto#Discord-8)から)
 
-なおスマホ版でビデオ通話をする場合は[こちら](https://honkinonki.com/discord-howto#i-3)をご覧ください。
+なおスマホ版でビデオ通話をする場合は[こちら](https://honkinonki.com/discord-howto#i-3)をご覧ください。]
