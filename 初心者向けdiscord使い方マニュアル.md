@@ -2,7 +2,9 @@
 
 このファイルはメモコン関連で使いそうなdiscordの機能・用語についてまとめたものです。基本は[こちら](https://honkinonki.com/discord-howto)の記事を参考にしていますので、もっと知りたい！といった方はどうぞご覧ください。
 
-通信制限などでこのサイトが見にくい場合は[こちら](https://doya0910.github.io/howtouse-discord/index.pdf)をダウンロードしてください。
+通信制限などでこのサイトが見にくい場合は[こちら](https://doya0910.github.io/howtouse-discord/%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91discord%E4%BD%BF%E3%81%84%E6%96%B9%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB.pdf)をダウンロードしてください。
+
+なおPC版を利用していただきたいので、[こちら](https://discord.com/)PC版をダウンロードしていただくようお願いいたします。(4/17追記)
 
 [TOC]
 
@@ -65,7 +67,7 @@ LINEで
 
 操作はPC・スマホ共に同じです。
 
-![pic3.jpg](https://github.com/Doya0910/howtouse-discord/blob/main/howtouse-discord/pic3.jpg?raw=true)
+![pic3.jpg](https://github.com/Doya0910/howtouse-discord/blob/main/pic3.jpg?raw=true)
 
 できればカテゴリー内に納めていただきたいので、基本的には①の「カテゴリー横の+」を選択してください。
 
@@ -92,4 +94,4 @@ discordではzoomのようにオンラインでのビデオ通話と画面共有
 なおスマホ版でビデオ通話をする場合、PC版と異なり、<font color="red">**サーバーからビデオ通話をすることはできません**</font>。
 スマホ版でビデオ通話をする場合は、フレンド同士なら可能ですので、<font color="blue">**事前にフレンド登録をする**</font>ようにお願いします。(フレンドの追加は[こちら](https://honkinonki.com/discord-howto#Discord-8)から)
 
-なおスマホ版でビデオ通話をする場合は[こちら](https://honkinonki.com/discord-howto#i-3)をご覧ください。]
+なおスマホ版でビデオ通話をする場合は[こちら](https://honkinonki.com/discord-howto#i-3)をご覧ください。
